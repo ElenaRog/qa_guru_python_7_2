@@ -1,0 +1,2 @@
+selene>=2.0.0rc2
+urllib3==1.26.6
